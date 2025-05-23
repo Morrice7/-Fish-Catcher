@@ -39,3 +39,9 @@ python Fish Catcher.py
 
 - After entering the game, the hook will automatically swing and when the player presses space, the hook will come out. Golden fish means add 8 points, green fish means add 5 points, red fish means add 3 points and black bomb means deduct 5 points.
 
+## Screenshot
+
+Here is a preview of the game interface:
+
+![Game Preview](screenshot.png)
+
