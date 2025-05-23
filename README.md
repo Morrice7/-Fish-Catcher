@@ -29,7 +29,7 @@ Fishing Catcher is a fast-paced fishing game where you swing, cast, and catch fi
 pip install pygame
 python Fish Catcher.py
 ```
--Run: python3 fish_catcher.py
+- Run: python3 fish_catcher.py
 
 ---
 ## Game Objective
